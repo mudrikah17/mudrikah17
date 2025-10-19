@@ -29,14 +29,13 @@
 ---
 ### 🎧 Now Playing
 <p align="center">
-<a href="https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa?si=CFpIzgvcTQKhoA6Z35wkiw/now-playing?open">
- <div style="text-align: center;">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open" target="_blank">
-     <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+  <a href="https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa?si=CFpIzgvcTQKhoA6Z35wkiw/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
+    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
   </a>
-</div>
-
 </p>
+
 <p align="center">
   <a href="https://open.spotify.com/playlist/2mjyV5t8NdoBzCuWkN2jTs?si=214bbc220e6840e5" target="_blank">
     <img src="https://img.shields.io/badge/Spotify%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
@@ -86,30 +85,12 @@
         <a href="https://wa.me/6289506555359?text=Hello%20mumudd-!!"  target="_blank"><img alt="Whatsapp"
                 src="https://img.shields.io/badge/-Whatsapp-6FCF97?style=flat-square&logo=Whatsapp&logoColor=white">
 </a>
-</p>
-  ---
-<!-- Featured Repositories -->
-  #### Featured
 
-<p align="center">
-<a href="https://github.com/mudrikah17/mudrikah17n">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mudrikah17&repo=mudrikah17&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+---
+## 🖥 &nbsp;Past work
 
-<p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mudrikah17&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mudrikah17&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
+
 <p align="center">
 🌸 “Beauty isn’t loud — it’s thoughtful, calm, and full of meaning.” 🌸
 </p>
