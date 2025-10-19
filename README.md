@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/2mjyV5t8NdoBzCuWkN2jTs?si=214bbc220e6840e5" target="_blank">
+  <a href="https://open.spotify.com/playlist/02m1w5Y6L8NodbzCuwKtN2?si=clYYFdSjRE-s4ZN-II20kg&pi=D-Pe6S96TYalQ" target="_blank">
     <img src="https://img.shields.io/badge/Spotify%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
