@@ -49,7 +49,7 @@
 ---
 ### 🌷 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mudrikah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7BB661?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mudrikah-97317b312?utm_source=share&utm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7BB661?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/moedrickha?igsh=N3FiYmdraWJiMTR6" target="_blank"><img src="https://img.shields.io/badge/Instagram-EFBAD7?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
